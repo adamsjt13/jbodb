@@ -1,4 +1,4 @@
-# KV Database (C)
+# JboDB Database (C)
 
 A simple key-value database implemented in C.
 
