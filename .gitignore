@@ -1,0 +1,25 @@
+# build artifacts
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+
+# debug / profiling
+*.dSYM/
+*.prof
+gmon.out
+
+# editor/OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# logs / db data files (important for this project)
+*.log
+*.db
+*.wal
+*.sst
+data/
